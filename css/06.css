@@ -1,0 +1,17 @@
+/* Tamanos estandar */
+
+@media (min-width: 550px) {
+  /* mobile */
+}
+
+@media (min-width: 768px) {
+  /* tablet */
+}
+
+@media (min-width: 1024px) {
+  /* laptop */
+}
+
+@media (min-width: 1600px) {
+  /* large screen */
+}

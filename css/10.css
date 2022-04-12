@@ -1,0 +1,15 @@
+.imagen {
+  width: 400px;
+  margin: 0 auto;
+}
+
+
+.imagen img {
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
